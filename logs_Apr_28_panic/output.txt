@@ -1,0 +1,260 @@
+modulo method for distrubting clients
+num of clients taken by each server = 34 33 33
+network =  0 successfully connected to all servers
+network =  1 successfully connected to all servers
+network =  2 successfully connected to all servers
+all servers and clients are connected
+________                ______       _____           
+___  __ \   ______ _    ___  /_      ___(_)  ______ _
+__  /_/ /   _  __ `/    __  __ \     __  /   _  __ `/
+_  _, _/    / /_/ /     _  /_/ /     _  /    / /_/ / 
+/_/ |_|     \__,_/      /_.___/      /_/     \__,_/  
+                                                     
+<nil> WRN  Client Conn.=34 Interval not-NULL Slots=7188 Interval throughput (cmd/sec)=169061 NULL Slots=577 Normal Slots=4688 RequestProposalAndWaitEnter=146 RequestProposalAndWaitExit=146 Svr Id=0 Unmatched Slots=2500
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=7200 Interval throughput (cmd/sec)=169336 NULL Slots=577 Normal Slots=7153 RequestProposalAndWaitEnter=353 RequestProposalAndWaitExit=353 Svr Id=2 Unmatched Slots=47
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=7200 Interval throughput (cmd/sec)=169336 NULL Slots=577 Normal Slots=7061 RequestProposalAndWaitEnter=425 RequestProposalAndWaitExit=425 Svr Id=1 Unmatched Slots=139
+<nil> WRN  Client Conn.=34 Interval not-NULL Slots=4498 Interval throughput (cmd/sec)=102455 NULL Slots=1404 Normal Slots=7683 RequestProposalAndWaitEnter=1599 RequestProposalAndWaitExit=1599 Svr Id=0 Unmatched Slots=4003
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4495 Interval throughput (cmd/sec)=102364 NULL Slots=1405 Normal Slots=10058 RequestProposalAndWaitEnter=1897 RequestProposalAndWaitExit=1897 Svr Id=1 Unmatched Slots=1637
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4495 Interval throughput (cmd/sec)=102364 NULL Slots=1405 Normal Slots=11648 RequestProposalAndWaitEnter=1238 RequestProposalAndWaitExit=1238 Svr Id=2 Unmatched Slots=47
+<nil> WRN  Client Conn.=34 Interval not-NULL Slots=4142 Interval throughput (cmd/sec)=93391 NULL Slots=2201 Normal Slots=10445 RequestProposalAndWaitEnter=2938 RequestProposalAndWaitExit=2938 Svr Id=0 Unmatched Slots=5383
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4144 Interval throughput (cmd/sec)=93458 NULL Slots=2201 Normal Slots=12820 RequestProposalAndWaitEnter=3250 RequestProposalAndWaitExit=3250 Svr Id=1 Unmatched Slots=3019
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4144 Interval throughput (cmd/sec)=93458 NULL Slots=2201 Normal Slots=15792 RequestProposalAndWaitEnter=2101 RequestProposalAndWaitExit=2101 Svr Id=2 Unmatched Slots=47
+<nil> WRN  Client Id=3 Interval Recv Tput (cmd/sec)=1145 Recv=17175 Sent=17180
+<nil> WRN  Client Id=9 Interval Recv Tput (cmd/sec)=1137 Recv=17060 Sent=17065
+<nil> WRN  Client Id=12 Interval Recv Tput (cmd/sec)=1134 Recv=17010 Sent=17015
+<nil> WRN  Client Id=15 Interval Recv Tput (cmd/sec)=1134 Recv=17005 Sent=17010
+<nil> WRN  Client Id=27 Interval Recv Tput (cmd/sec)=1142 Recv=17125 Sent=17130
+<nil> WRN  Client Id=17 Interval Recv Tput (cmd/sec)=1159 Recv=17390 Sent=17395
+<nil> WRN  Client Id=33 Interval Recv Tput (cmd/sec)=1142 Recv=17130 Sent=17135
+<nil> WRN  Client Id=11 Interval Recv Tput (cmd/sec)=1165 Recv=17480 Sent=17485
+<nil> WRN  Client Id=0 Interval Recv Tput (cmd/sec)=1127 Recv=16910 Sent=16915
+<nil> WRN  Client Id=18 Interval Recv Tput (cmd/sec)=1123 Recv=16850 Sent=16855
+<nil> WRN  Client Id=5 Interval Recv Tput (cmd/sec)=1154 Recv=17315 Sent=17320
+<nil> WRN  Client Id=21 Interval Recv Tput (cmd/sec)=1135 Recv=17025 Sent=17030
+<nil> WRN  Client Id=8 Interval Recv Tput (cmd/sec)=1164 Recv=17460 Sent=17465
+<nil> WRN  Client Id=38 Interval Recv Tput (cmd/sec)=1152 Recv=17280 Sent=17285
+<nil> WRN  Client Id=30 Interval Recv Tput (cmd/sec)=1121 Recv=16820 Sent=16825
+<nil> WRN  Client Id=6 Interval Recv Tput (cmd/sec)=1142 Recv=17135 Sent=17140
+<nil> WRN  Client Id=72 Interval Recv Tput (cmd/sec)=1130 Recv=16945 Sent=16950
+<nil> WRN  Client Id=39 Interval Recv Tput (cmd/sec)=1122 Recv=16830 Sent=16835
+<nil> WRN  Client Id=51 Interval Recv Tput (cmd/sec)=1129 Recv=16930 Sent=16935
+<nil> WRN  Client Id=2 Interval Recv Tput (cmd/sec)=1144 Recv=17165 Sent=17170
+<nil> WRN  Client Id=45 Interval Recv Tput (cmd/sec)=1153 Recv=17290 Sent=17295
+<nil> WRN  Client Id=60 Interval Recv Tput (cmd/sec)=1141 Recv=17115 Sent=17120
+<nil> WRN  Client Id=26 Interval Recv Tput (cmd/sec)=1153 Recv=17295 Sent=17300
+<nil> WRN  Client Id=29 Interval Recv Tput (cmd/sec)=1165 Recv=17480 Sent=17485
+<nil> WRN  Client Id=20 Interval Recv Tput (cmd/sec)=1154 Recv=17305 Sent=17310
+<nil> WRN  Client Id=14 Interval Recv Tput (cmd/sec)=1158 Recv=17375 Sent=17380
+<nil> WRN  Client Id=36 Interval Recv Tput (cmd/sec)=1128 Recv=16925 Sent=16930
+<nil> WRN  Client Id=42 Interval Recv Tput (cmd/sec)=1149 Recv=17230 Sent=17235
+<nil> WRN  Client Id=62 Interval Recv Tput (cmd/sec)=1160 Recv=17395 Sent=17400
+<nil> WRN  Client Id=75 Interval Recv Tput (cmd/sec)=1146 Recv=17195 Sent=17200
+<nil> WRN  Client Id=50 Interval Recv Tput (cmd/sec)=1159 Recv=17390 Sent=17395
+<nil> WRN  Client Id=24 Interval Recv Tput (cmd/sec)=1129 Recv=16940 Sent=16945
+<nil> WRN  Client Id=81 Interval Recv Tput (cmd/sec)=1147 Recv=17200 Sent=17205
+<nil> WRN  Client Id=47 Interval Recv Tput (cmd/sec)=1134 Recv=17005 Sent=17010
+<nil> WRN  Client Id=23 Interval Recv Tput (cmd/sec)=1159 Recv=17380 Sent=17385
+<nil> WRN  Client Id=69 Interval Recv Tput (cmd/sec)=1140 Recv=17100 Sent=17105
+<nil> WRN  Client Id=54 Interval Recv Tput (cmd/sec)=1116 Recv=16740 Sent=16745
+<nil> WRN  Client Id=66 Interval Recv Tput (cmd/sec)=1141 Recv=17120 Sent=17125
+<nil> WRN  Client Id=41 Interval Recv Tput (cmd/sec)=1149 Recv=17240 Sent=17245
+<nil> WRN  Client Id=48 Interval Recv Tput (cmd/sec)=1138 Recv=17070 Sent=17075
+<nil> WRN  Client Id=92 Interval Recv Tput (cmd/sec)=1133 Recv=17000 Sent=17005
+<nil> WRN  Client Id=90 Interval Recv Tput (cmd/sec)=1128 Recv=16925 Sent=16930
+<nil> WRN  Client Id=53 Interval Recv Tput (cmd/sec)=1178 Recv=17675 Sent=17680
+<nil> WRN  Client Id=99 Interval Recv Tput (cmd/sec)=1136 Recv=17040 Sent=17045
+<nil> WRN  Client Id=89 Interval Recv Tput (cmd/sec)=1156 Recv=17345 Sent=17350
+<nil> WRN  Client Id=80 Interval Recv Tput (cmd/sec)=1167 Recv=17500 Sent=17505
+<nil> WRN  Client Id=83 Interval Recv Tput (cmd/sec)=1167 Recv=17510 Sent=17515
+<nil> WRN  Client Id=65 Interval Recv Tput (cmd/sec)=1149 Recv=17240 Sent=17245
+<nil> WRN  Client Id=84 Interval Recv Tput (cmd/sec)=1139 Recv=17090 Sent=17095
+<nil> WRN  Client Id=68 Interval Recv Tput (cmd/sec)=1157 Recv=17360 Sent=17365
+<nil> WRN  Client Id=32 Interval Recv Tput (cmd/sec)=1168 Recv=17515 Sent=17520
+<nil> WRN  Client Id=59 Interval Recv Tput (cmd/sec)=1160 Recv=17405 Sent=17410
+<nil> WRN  Client Id=77 Interval Recv Tput (cmd/sec)=1161 Recv=17415 Sent=17420
+<nil> WRN  Client Id=96 Interval Recv Tput (cmd/sec)=1138 Recv=17075 Sent=17080
+<nil> WRN  Client Id=78 Interval Recv Tput (cmd/sec)=1124 Recv=16855 Sent=16860
+<nil> WRN  Client Id=57 Interval Recv Tput (cmd/sec)=1133 Recv=16995 Sent=17000
+<nil> WRN  Client Id=44 Interval Recv Tput (cmd/sec)=1143 Recv=17145 Sent=17150
+<nil> WRN  Client Id=87 Interval Recv Tput (cmd/sec)=1136 Recv=17035 Sent=17040
+<nil> WRN  Client Id=71 Interval Recv Tput (cmd/sec)=1148 Recv=17220 Sent=17225
+<nil> WRN  Client Id=63 Interval Recv Tput (cmd/sec)=1114 Recv=16715 Sent=16720
+<nil> WRN  Client Id=93 Interval Recv Tput (cmd/sec)=1154 Recv=17305 Sent=17310
+<nil> WRN  Client Id=35 Interval Recv Tput (cmd/sec)=1154 Recv=17310 Sent=17315
+<nil> WRN  Client Id=86 Interval Recv Tput (cmd/sec)=1151 Recv=17265 Sent=17270
+<nil> WRN  Client Id=74 Interval Recv Tput (cmd/sec)=1161 Recv=17415 Sent=17420
+<nil> WRN  Client Id=56 Interval Recv Tput (cmd/sec)=1159 Recv=17385 Sent=17390
+<nil> WRN  Client Id=4 Interval Recv Tput (cmd/sec)=1147 Recv=17210 Sent=17215
+<nil> WRN  Client Id=43 Interval Recv Tput (cmd/sec)=1176 Recv=17640 Sent=17645
+<nil> WRN  Client Id=95 Interval Recv Tput (cmd/sec)=1138 Recv=17065 Sent=17070
+<nil> WRN  Client Id=98 Interval Recv Tput (cmd/sec)=1156 Recv=17345 Sent=17350
+<nil> WRN  Client Id=37 Interval Recv Tput (cmd/sec)=1157 Recv=17355 Sent=17360
+<nil> WRN  Client Id=1 Interval Recv Tput (cmd/sec)=1171 Recv=17560 Sent=17565
+<nil> WRN  Client Id=13 Interval Recv Tput (cmd/sec)=1170 Recv=17545 Sent=17550
+<nil> WRN  Client Id=25 Interval Recv Tput (cmd/sec)=1156 Recv=17345 Sent=17350
+<nil> WRN  Client Id=19 Interval Recv Tput (cmd/sec)=1159 Recv=17385 Sent=17390
+<nil> WRN  Client Id=31 Interval Recv Tput (cmd/sec)=1142 Recv=17125 Sent=17130
+<nil> WRN  Client Id=58 Interval Recv Tput (cmd/sec)=1162 Recv=17430 Sent=17435
+<nil> WRN  Client Id=49 Interval Recv Tput (cmd/sec)=1170 Recv=17550 Sent=17555
+<nil> WRN  Client Id=16 Interval Recv Tput (cmd/sec)=1142 Recv=17125 Sent=17130
+<nil> WRN  Client Id=34 Interval Recv Tput (cmd/sec)=1152 Recv=17275 Sent=17280
+<nil> WRN  Client Id=40 Interval Recv Tput (cmd/sec)=1159 Recv=17385 Sent=17390
+<nil> WRN  Client Id=55 Interval Recv Tput (cmd/sec)=1145 Recv=17180 Sent=17185
+<nil> WRN  Client Id=64 Interval Recv Tput (cmd/sec)=1184 Recv=17760 Sent=17765
+<nil> WRN  Client Id=52 Interval Recv Tput (cmd/sec)=1151 Recv=17260 Sent=17265
+<nil> WRN  Client Id=10 Interval Recv Tput (cmd/sec)=1164 Recv=17455 Sent=17460
+<nil> WRN  Client Id=7 Interval Recv Tput (cmd/sec)=1141 Recv=17110 Sent=17115
+<nil> WRN  Client Id=28 Interval Recv Tput (cmd/sec)=1159 Recv=17390 Sent=17395
+<nil> WRN  Client Id=46 Interval Recv Tput (cmd/sec)=1144 Recv=17160 Sent=17165
+<nil> WRN  Client Id=70 Interval Recv Tput (cmd/sec)=1162 Recv=17425 Sent=17430
+<nil> WRN  Client Id=22 Interval Recv Tput (cmd/sec)=1160 Recv=17400 Sent=17405
+<nil> WRN  Client Id=73 Interval Recv Tput (cmd/sec)=1155 Recv=17330 Sent=17335
+<nil> WRN  Client Id=67 Interval Recv Tput (cmd/sec)=1160 Recv=17400 Sent=17405
+<nil> WRN  Client Id=85 Interval Recv Tput (cmd/sec)=1144 Recv=17165 Sent=17170
+<nil> WRN  Client Id=61 Interval Recv Tput (cmd/sec)=1162 Recv=17435 Sent=17440
+<nil> WRN  Client Id=97 Interval Recv Tput (cmd/sec)=1153 Recv=17290 Sent=17295
+<nil> WRN  Client Id=76 Interval Recv Tput (cmd/sec)=1153 Recv=17290 Sent=17295
+<nil> WRN  Client Id=82 Interval Recv Tput (cmd/sec)=1156 Recv=17335 Sent=17340
+<nil> WRN  Client Id=94 Interval Recv Tput (cmd/sec)=1155 Recv=17330 Sent=17335
+<nil> WRN  Client Id=91 Interval Recv Tput (cmd/sec)=1163 Recv=17450 Sent=17455
+<nil> WRN  Client Id=79 Interval Recv Tput (cmd/sec)=1162 Recv=17435 Sent=17440
+<nil> WRN  Client Id=88 Interval Recv Tput (cmd/sec)=1145 Recv=17170 Sent=17175
+<nil> WRN  Client Conn.=34 Interval not-NULL Slots=4179 Interval throughput (cmd/sec)=94426 NULL Slots=3076 Normal Slots=13230 RequestProposalAndWaitEnter=4282 RequestProposalAndWaitExit=4282 Svr Id=0 Unmatched Slots=6777
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4180 Interval throughput (cmd/sec)=94451 NULL Slots=3077 Normal Slots=15607 RequestProposalAndWaitEnter=4606 RequestProposalAndWaitExit=4605 Svr Id=1 Unmatched Slots=4412
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4180 Interval throughput (cmd/sec)=94451 NULL Slots=3077 Normal Slots=19972 RequestProposalAndWaitEnter=2858 RequestProposalAndWaitExit=2858 Svr Id=2 Unmatched Slots=47
+<nil> WRN  Client Conn.=34 Interval not-NULL Slots=4617 Interval throughput (cmd/sec)=105240 NULL Slots=3809 Normal Slots=16308 RequestProposalAndWaitEnter=5766 RequestProposalAndWaitExit=5766 Svr Id=0 Unmatched Slots=8316
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4614 Interval throughput (cmd/sec)=105165 NULL Slots=3810 Normal Slots=18683 RequestProposalAndWaitEnter=6103 RequestProposalAndWaitExit=6102 Svr Id=1 Unmatched Slots=5950
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4615 Interval throughput (cmd/sec)=105190 NULL Slots=3810 Normal Slots=24587 RequestProposalAndWaitEnter=3661 RequestProposalAndWaitExit=3661 Svr Id=2 Unmatched Slots=47
+<nil> WRN  Client Conn.=34 Interval not-NULL Slots=4181 Interval throughput (cmd/sec)=94249 NULL Slots=4607 Normal Slots=19095 RequestProposalAndWaitEnter=7125 RequestProposalAndWaitExit=7125 Svr Id=0 Unmatched Slots=9710
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4180 Interval throughput (cmd/sec)=94233 NULL Slots=4610 Normal Slots=21470 RequestProposalAndWaitEnter=7474 RequestProposalAndWaitExit=7474 Svr Id=1 Unmatched Slots=7343
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4179 Interval throughput (cmd/sec)=94208 NULL Slots=4610 Normal Slots=28766 RequestProposalAndWaitEnter=4565 RequestProposalAndWaitExit=4565 Svr Id=2 Unmatched Slots=47
+<nil> WRN  Client Conn.=34 Interval not-NULL Slots=4515 Interval throughput (cmd/sec)=102730 NULL Slots=5495 Normal Slots=22105 RequestProposalAndWaitEnter=8586 RequestProposalAndWaitExit=8586 Svr Id=0 Unmatched Slots=11215
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4515 Interval throughput (cmd/sec)=102721 NULL Slots=5497 Normal Slots=24480 RequestProposalAndWaitEnter=8937 RequestProposalAndWaitExit=8937 Svr Id=1 Unmatched Slots=8848
+<nil> WRN  Client Conn.=33 Interval not-NULL Slots=4515 Interval throughput (cmd/sec)=102721 NULL Slots=5497 Normal Slots=33281 RequestProposalAndWaitEnter=5337 RequestProposalAndWaitExit=5337 Svr Id=2 Unmatched Slots=47
+<nil> WRN  Client Id=3 Interval Recv Tput (cmd/sec)=1006 Recv=32260 Sent=32265
+<nil> WRN  Client Id=9 Interval Recv Tput (cmd/sec)=997 Recv=32020 Sent=32025
+<nil> WRN  Client Id=12 Interval Recv Tput (cmd/sec)=990 Recv=31855 Sent=31860
+<nil> WRN  Client Id=15 Interval Recv Tput (cmd/sec)=986 Recv=31800 Sent=31805
+<nil> WRN  Client Id=27 Interval Recv Tput (cmd/sec)=1014 Recv=32330 Sent=32335
+<nil> WRN  Client Id=17 Interval Recv Tput (cmd/sec)=1012 Recv=32570 Sent=32575
+<nil> WRN  Client Id=11 Interval Recv Tput (cmd/sec)=1021 Recv=32790 Sent=32795
+<nil> WRN  Client Id=33 Interval Recv Tput (cmd/sec)=1003 Recv=32175 Sent=32180
+<nil> WRN  Client Id=0 Interval Recv Tput (cmd/sec)=1004 Recv=31975 Sent=31980
+<nil> WRN  Client Id=18 Interval Recv Tput (cmd/sec)=981 Recv=31560 Sent=31565
+<nil> WRN  Client Id=5 Interval Recv Tput (cmd/sec)=1006 Recv=32400 Sent=32405
+<nil> WRN  Client Id=21 Interval Recv Tput (cmd/sec)=988 Recv=31840 Sent=31845
+<nil> WRN  Client Id=8 Interval Recv Tput (cmd/sec)=1027 Recv=32860 Sent=32865
+<nil> WRN  Client Id=38 Interval Recv Tput (cmd/sec)=1003 Recv=32320 Sent=32325
+<nil> WRN  Client Id=30 Interval Recv Tput (cmd/sec)=992 Recv=31705 Sent=31710
+<nil> WRN  Client Id=6 Interval Recv Tput (cmd/sec)=1016 Recv=32370 Sent=32375
+<nil> WRN  Client Id=72 Interval Recv Tput (cmd/sec)=981 Recv=31660 Sent=31665
+<nil> WRN  Client Id=39 Interval Recv Tput (cmd/sec)=992 Recv=31715 Sent=31720
+<nil> WRN  Client Id=2 Interval Recv Tput (cmd/sec)=1002 Recv=32190 Sent=32195
+<nil> WRN  Client Id=51 Interval Recv Tput (cmd/sec)=992 Recv=31815 Sent=31820
+<nil> WRN  Client Id=45 Interval Recv Tput (cmd/sec)=1014 Recv=32495 Sent=32500
+<nil> WRN  Client Id=60 Interval Recv Tput (cmd/sec)=1006 Recv=32210 Sent=32215
+<nil> WRN  Client Id=26 Interval Recv Tput (cmd/sec)=1022 Recv=32625 Sent=32630
+<nil> WRN  Client Id=29 Interval Recv Tput (cmd/sec)=1016 Recv=32720 Sent=32725
+<nil> WRN  Client Id=20 Interval Recv Tput (cmd/sec)=1007 Recv=32415 Sent=32420
+<nil> WRN  Client Id=14 Interval Recv Tput (cmd/sec)=1014 Recv=32580 Sent=32585
+<nil> WRN  Client Id=36 Interval Recv Tput (cmd/sec)=995 Recv=31845 Sent=31850
+<nil> WRN  Client Id=42 Interval Recv Tput (cmd/sec)=1003 Recv=32275 Sent=32280
+<nil> WRN  Client Id=62 Interval Recv Tput (cmd/sec)=1016 Recv=32640 Sent=32645
+<nil> WRN  Client Id=50 Interval Recv Tput (cmd/sec)=1016 Recv=32625 Sent=32630
+<nil> WRN  Client Id=75 Interval Recv Tput (cmd/sec)=1015 Recv=32425 Sent=32430
+<nil> WRN  Client Id=24 Interval Recv Tput (cmd/sec)=1003 Recv=31980 Sent=31985
+<nil> WRN  Client Id=81 Interval Recv Tput (cmd/sec)=1006 Recv=32290 Sent=32295
+<nil> WRN  Client Id=47 Interval Recv Tput (cmd/sec)=996 Recv=31950 Sent=31955
+<nil> WRN  Client Id=23 Interval Recv Tput (cmd/sec)=1020 Recv=32685 Sent=32690
+<nil> WRN  Client Id=69 Interval Recv Tput (cmd/sec)=1006 Recv=32190 Sent=32195
+<nil> WRN  Client Id=54 Interval Recv Tput (cmd/sec)=979 Recv=31430 Sent=31435
+<nil> WRN  Client Id=41 Interval Recv Tput (cmd/sec)=1002 Recv=32270 Sent=32275
+<nil> WRN  Client Id=92 Interval Recv Tput (cmd/sec)=997 Recv=31960 Sent=31965
+<nil> WRN  Client Id=66 Interval Recv Tput (cmd/sec)=996 Recv=32055 Sent=32060
+<nil> WRN  Client Id=48 Interval Recv Tput (cmd/sec)=995 Recv=32000 Sent=32005
+<nil> WRN  Client Id=53 Interval Recv Tput (cmd/sec)=1034 Recv=33185 Sent=33190
+<nil> WRN  Client Id=90 Interval Recv Tput (cmd/sec)=1002 Recv=31950 Sent=31955
+<nil> WRN  Client Id=99 Interval Recv Tput (cmd/sec)=1001 Recv=32050 Sent=32055
+<nil> WRN  Client Id=89 Interval Recv Tput (cmd/sec)=1019 Recv=32635 Sent=32640
+<nil> WRN  Client Id=80 Interval Recv Tput (cmd/sec)=1025 Recv=32870 Sent=32875
+<nil> WRN  Client Id=83 Interval Recv Tput (cmd/sec)=1020 Recv=32805 Sent=32810
+<nil> WRN  Client Id=65 Interval Recv Tput (cmd/sec)=1015 Recv=32460 Sent=32465
+<nil> WRN  Client Id=84 Interval Recv Tput (cmd/sec)=1009 Recv=32230 Sent=32235
+<nil> WRN  Client Id=32 Interval Recv Tput (cmd/sec)=1021 Recv=32835 Sent=32840
+<nil> WRN  Client Id=68 Interval Recv Tput (cmd/sec)=1016 Recv=32605 Sent=32610
+<nil> WRN  Client Id=59 Interval Recv Tput (cmd/sec)=1014 Recv=32610 Sent=32615
+<nil> WRN  Client Id=77 Interval Recv Tput (cmd/sec)=1015 Recv=32640 Sent=32645
+<nil> WRN  Client Id=78 Interval Recv Tput (cmd/sec)=982 Recv=31580 Sent=31585
+<nil> WRN  Client Id=96 Interval Recv Tput (cmd/sec)=999 Recv=32060 Sent=32065
+<nil> WRN  Client Id=57 Interval Recv Tput (cmd/sec)=1003 Recv=32035 Sent=32040
+<nil> WRN  Client Id=44 Interval Recv Tput (cmd/sec)=997 Recv=32105 Sent=32110
+<nil> WRN  Client Id=87 Interval Recv Tput (cmd/sec)=1005 Recv=32105 Sent=32110
+<nil> WRN  Client Id=71 Interval Recv Tput (cmd/sec)=1004 Recv=32280 Sent=32285
+<nil> WRN  Client Id=63 Interval Recv Tput (cmd/sec)=982 Recv=31440 Sent=31445
+<nil> WRN  Client Id=93 Interval Recv Tput (cmd/sec)=1018 Recv=32570 Sent=32575
+<nil> WRN  Client Id=35 Interval Recv Tput (cmd/sec)=1007 Recv=32410 Sent=32415
+<nil> WRN  Client Id=74 Interval Recv Tput (cmd/sec)=1016 Recv=32650 Sent=32655
+<nil> WRN  Client Id=86 Interval Recv Tput (cmd/sec)=1010 Recv=32415 Sent=32420
+<nil> WRN  Client Id=56 Interval Recv Tput (cmd/sec)=1019 Recv=32670 Sent=32675
+<nil> WRN  Client Id=4 Interval Recv Tput (cmd/sec)=1005 Recv=32280 Sent=32285
+<nil> WRN  Client Id=95 Interval Recv Tput (cmd/sec)=1007 Recv=32165 Sent=32170
+<nil> WRN  Client Id=98 Interval Recv Tput (cmd/sec)=1018 Recv=32610 Sent=32615
+<nil> WRN  Client Id=43 Interval Recv Tput (cmd/sec)=1016 Recv=32880 Sent=32885
+<nil> WRN  Client Id=37 Interval Recv Tput (cmd/sec)=1018 Recv=32625 Sent=32630
+<nil> WRN  Client Id=1 Interval Recv Tput (cmd/sec)=1020 Recv=32855 Sent=32860
+<nil> WRN  Client Id=13 Interval Recv Tput (cmd/sec)=1023 Recv=32885 Sent=32890
+<nil> WRN  Client Id=25 Interval Recv Tput (cmd/sec)=1013 Recv=32535 Sent=32540
+<nil> WRN  Client Id=19 Interval Recv Tput (cmd/sec)=1008 Recv=32510 Sent=32515
+<nil> WRN  Client Id=31 Interval Recv Tput (cmd/sec)=1007 Recv=32225 Sent=32230
+<nil> WRN  Client Id=58 Interval Recv Tput (cmd/sec)=1028 Recv=32855 Sent=32860
+<nil> WRN  Client Id=49 Interval Recv Tput (cmd/sec)=1026 Recv=32940 Sent=32945
+<nil> WRN  Client Id=16 Interval Recv Tput (cmd/sec)=997 Recv=32085 Sent=32090
+<nil> WRN  Client Id=34 Interval Recv Tput (cmd/sec)=1013 Recv=32465 Sent=32470
+<nil> WRN  Client Id=40 Interval Recv Tput (cmd/sec)=1006 Recv=32475 Sent=32480
+<nil> WRN  Client Id=55 Interval Recv Tput (cmd/sec)=1012 Recv=32365 Sent=32370
+<nil> WRN  Client Id=64 Interval Recv Tput (cmd/sec)=1037 Recv=33315 Sent=33320
+<nil> WRN  Client Id=52 Interval Recv Tput (cmd/sec)=1020 Recv=32560 Sent=32565
+<nil> WRN  Client Id=10 Interval Recv Tput (cmd/sec)=1023 Recv=32795 Sent=32800
+<nil> WRN  Client Id=28 Interval Recv Tput (cmd/sec)=1022 Recv=32725 Sent=32730
+<nil> WRN  Client Id=7 Interval Recv Tput (cmd/sec)=996 Recv=32050 Sent=32055
+<nil> WRN  Client Id=22 Interval Recv Tput (cmd/sec)=1020 Recv=32705 Sent=32710
+<nil> WRN  Client Id=70 Interval Recv Tput (cmd/sec)=1012 Recv=32610 Sent=32615
+<nil> WRN  Client Id=46 Interval Recv Tput (cmd/sec)=1004 Recv=32220 Sent=32225
+<nil> WRN  Client Id=73 Interval Recv Tput (cmd/sec)=1007 Recv=32435 Sent=32440
+<nil> WRN  Client Id=67 Interval Recv Tput (cmd/sec)=1007 Recv=32510 Sent=32515
+<nil> WRN  Client Id=85 Interval Recv Tput (cmd/sec)=1001 Recv=32180 Sent=32185
+<nil> WRN  Client Id=61 Interval Recv Tput (cmd/sec)=1012 Recv=32620 Sent=32625
+<nil> WRN  Client Id=97 Interval Recv Tput (cmd/sec)=1005 Recv=32360 Sent=32365
+<nil> WRN  Client Id=76 Interval Recv Tput (cmd/sec)=1003 Recv=32335 Sent=32340
+<nil> WRN  Client Id=82 Interval Recv Tput (cmd/sec)=1008 Recv=32450 Sent=32455
+<nil> WRN  Client Id=94 Interval Recv Tput (cmd/sec)=1015 Recv=32560 Sent=32565
+<nil> WRN  Client Id=91 Interval Recv Tput (cmd/sec)=1019 Recv=32740 Sent=32745
+<nil> WRN  Client Id=79 Interval Recv Tput (cmd/sec)=1017 Recv=32695 Sent=32700
+<nil> WRN  Client Id=88 Interval Recv Tput (cmd/sec)=1013 Recv=32360 Sent=32365
+panic: should not happen
+
+goroutine 1 [running]:
+rc3/roles/controller.(*Controller).waitClientReplies(0xc0001523f0)
+	/home/shenvw_bc_edu/go/src/rc3/roles/controller/controller.go:184 +0x145
+rc3/roles/controller.ControllerMain()
+	/home/shenvw_bc_edu/go/src/rc3/roles/controller/controller.go:75 +0xc6
+main.main()
+	/home/shenvw_bc_edu/go/src/rc3/main.go:24 +0xe7
+Traceback (most recent call last):
+  File "/home/shenvw_bc_edu/go/src/rc3/deployment/analysis/analysis8.py", line 262, in <module>
+    print_statistics()
+  File "/home/shenvw_bc_edu/go/src/rc3/deployment/analysis/analysis8.py", line 241, in print_statistics
+    load_consensus_info(log_folder, param, trial)
+  File "/home/shenvw_bc_edu/go/src/rc3/deployment/analysis/analysis8.py", line 121, in load_consensus_info
+    log_dict = load_json_dict(os.path.join(log_folder, log_file_name))
+  File "/home/shenvw_bc_edu/go/src/rc3/deployment/analysis/analysis8.py", line 21, in load_json_dict
+    return load(f)
+  File "/usr/lib/python3.8/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/usr/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
